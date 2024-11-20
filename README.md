@@ -11,3 +11,5 @@
 [Лабораторна робота №5 - Розробка додатку для візуалізації вимірювань GPS](https://github.com/Reveno/gps.git)
 
 [Лабораторна робота №6 - Розробка додатку для візуалізації вимірювань LORAN](https://github.com/Reveno/loran.git)
+
+[Лабораторна робота №7 - Дослідження фільтра Калмана](https://github.com/Reveno/better-call-man/tree/main)
